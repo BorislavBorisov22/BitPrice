@@ -1,0 +1,19 @@
+{
+  "name": "bitprice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "BorislavBorisov22 <borislavborisov22@abv.bg>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "isomorphic-unfetch": "^2.1.1",
+    "next": "^6.1.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
+}
